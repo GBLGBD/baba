@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>神秘代码</title>
+  <title>慢跑中的彬鑫</title>
   
-  
+  <subtitle>人生若只如初见</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="/"/>
-  <updated>2020-10-11T03:36:48.216Z</updated>
-  <id>/</id>
+  <link href="https://binxin.run/"/>
+  <updated>2020-10-15T14:19:31.398Z</updated>
+  <id>https://binxin.run/</id>
   
   <author>
     <name>XBY</name>
@@ -17,9 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>workstation安装及使用免费许可证</title>
+    <link href="https://binxin.run/2020/10/15/2020-10-15-workstation%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8%E5%85%8D%E8%B4%B9%E8%AE%B8%E5%8F%AF%E8%AF%81/"/>
+    <id>https://binxin.run/2020/10/15/2020-10-15-workstation安装及使用免费许可证/</id>
+    <published>2020-10-15T14:14:03.000Z</published>
+    <updated>2020-10-15T14:19:31.398Z</updated>
+    
+    <summary type="html">
+    
+      描述
+    
+    </summary>
+    
+      <category term="技术 生活 资源 随想 转载" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF-%E7%94%9F%E6%B4%BB-%E8%B5%84%E6%BA%90-%E9%9A%8F%E6%83%B3-%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+      <category term="web" scheme="https://binxin.run/tags/web/"/>
+    
+      <category term="java" scheme="https://binxin.run/tags/java/"/>
+    
+      <category term="sql" scheme="https://binxin.run/tags/sql/"/>
+    
+      <category term="兴趣" scheme="https://binxin.run/tags/%E5%85%B4%E8%B6%A3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>MarkDown学习</title>
-    <link href="/2020/10/11/markdown/"/>
-    <id>/2020/10/11/markdown/</id>
+    <link href="https://binxin.run/2020/10/11/2020-10-11-markdown/"/>
+    <id>https://binxin.run/2020/10/11/2020-10-11-markdown/</id>
     <published>2020-10-11T03:21:23.000Z</published>
     <updated>2020-10-11T03:36:48.216Z</updated>
     
@@ -29,17 +55,17 @@
     
     </summary>
     
-      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="MarkDown" scheme="/tags/MarkDown/"/>
+      <category term="MarkDown" scheme="https://binxin.run/tags/MarkDown/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="/2020/09/15/hello-world/"/>
-    <id>/2020/09/15/hello-world/</id>
+    <link href="https://binxin.run/2020/09/15/hello-world/"/>
+    <id>https://binxin.run/2020/09/15/hello-world/</id>
     <published>2020-09-15T12:01:41.922Z</published>
     <updated>2020-09-15T12:01:41.923Z</updated>
     
@@ -60,8 +86,8 @@
   
   <entry>
     <title>firstBlog</title>
-    <link href="/2020/09/14/firstBlog/"/>
-    <id>/2020/09/14/firstBlog/</id>
+    <link href="https://binxin.run/2020/09/14/firstBlog/"/>
+    <id>https://binxin.run/2020/09/14/firstBlog/</id>
     <published>2020-09-14T06:10:39.000Z</published>
     <updated>2020-09-14T10:03:30.249Z</updated>
     
@@ -82,8 +108,8 @@
   
   <entry>
     <title>Hexo-Theme-Sakura</title>
-    <link href="/2018/12/12/Hexo-Theme-Sakura/"/>
-    <id>/2018/12/12/Hexo-Theme-Sakura/</id>
+    <link href="https://binxin.run/2018/12/12/Hexo-Theme-Sakura/"/>
+    <id>https://binxin.run/2018/12/12/Hexo-Theme-Sakura/</id>
     <published>2018-12-12T14:16:01.000Z</published>
     <updated>2020-10-11T04:21:27.363Z</updated>
     
@@ -93,12 +119,12 @@
     
     </summary>
     
-      <category term="转载" scheme="/categories/%E8%BD%AC%E8%BD%BD/"/>
+      <category term="转载" scheme="https://binxin.run/categories/%E8%BD%AC%E8%BD%BD/"/>
     
     
-      <category term="web" scheme="/tags/web/"/>
+      <category term="web" scheme="https://binxin.run/tags/web/"/>
     
-      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="悦读" scheme="https://binxin.run/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
