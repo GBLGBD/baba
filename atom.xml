@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://binxin.run/"/>
-  <updated>2020-10-15T14:19:31.398Z</updated>
+  <updated>2020-10-26T14:56:23.848Z</updated>
   <id>https://binxin.run/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://binxin.run/2020/10/15/2020-10-15-workstation%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8%E5%85%8D%E8%B4%B9%E8%AE%B8%E5%8F%AF%E8%AF%81/"/>
     <id>https://binxin.run/2020/10/15/2020-10-15-workstation安装及使用免费许可证/</id>
     <published>2020-10-15T14:14:03.000Z</published>
-    <updated>2020-10-15T14:19:31.398Z</updated>
+    <updated>2020-10-26T14:56:23.848Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,15 @@
     
     </summary>
     
-      <category term="技术 生活 资源 随想 转载" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF-%E7%94%9F%E6%B4%BB-%E8%B5%84%E6%BA%90-%E9%9A%8F%E6%83%B3-%E8%BD%AC%E8%BD%BD/"/>
+      <category term="技术" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="生活" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="资源" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF/%E7%94%9F%E6%B4%BB/%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="随想" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF/%E7%94%9F%E6%B4%BB/%E8%B5%84%E6%BA%90/%E9%9A%8F%E6%83%B3/"/>
+    
+      <category term="转载" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF/%E7%94%9F%E6%B4%BB/%E8%B5%84%E6%BA%90/%E9%9A%8F%E6%83%B3/%E8%BD%AC%E8%BD%BD/"/>
     
     
       <category term="web" scheme="https://binxin.run/tags/web/"/>
