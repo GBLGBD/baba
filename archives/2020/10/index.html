@@ -250,14 +250,37 @@
                         </a>
                       </li>
                     
-                      <li>
-                        <a href="/mypage/">
-                          <i class="fa fa-photo" aria-hidden="true"></i>
-                          图集
-                        </a>
-                      </li>
-                    
                   </ul>
+                
+              </li>
+            
+              <li>
+                <a href="/mypage/">
+                  <span class="faa-parent animated-hover">
+                    <i class="fa  fa-photo" aria-hidden="true"></i>
+                    我画你猜
+                  </span>
+                </a>
+                
+              </li>
+            
+              <li>
+                <a href="https://mikutap.binxin.run">
+                  <span class="faa-parent animated-hover">
+                    <i class="fa  fa-headphones" aria-hidden="true"></i>
+                    初音未来
+                  </span>
+                </a>
+                
+              </li>
+            
+              <li>
+                <a href="/categories/日记/">
+                  <span class="faa-parent animated-hover">
+                    <i class="fa  fa-book" aria-hidden="true"></i>
+                    日记
+                  </span>
+                </a>
                 
               </li>
             
@@ -319,26 +342,6 @@
                 
               </li>
             
-              <li>
-                <a href="/client/">
-                  <span class="faa-parent animated-hover">
-                    <i class="fa  fa-android faa-vertical" aria-hidden="true"></i>
-                    客户端
-                  </span>
-                </a>
-                
-              </li>
-            
-              <li>
-                <a href="/atom.xml">
-                  <span class="faa-parent animated-hover">
-                    <i class="fa  fa-rss faa-pulse" aria-hidden="true"></i>
-                    RSS
-                  </span>
-                </a>
-                
-              </li>
-            
           </ul>
         </nav>
       </div>
@@ -384,6 +387,32 @@
                       3</span>
                     篇文章)</span>
                     <ul class="al_post_list" style="">
+              
+                      <li>
+                        <a href="/2020/10/28/日记/">
+                          <span style="color:#0bf;">
+                          28日22:28:17</span>
+                          日记
+                        </a>
+                      </li>
+                      
+              
+              
+              
+              
+              
+                      <li>
+                        <a href="/2020/10/28/测试一下/">
+                          <span style="color:#0bf;">
+                          28日21:10:09</span>
+                          测试一下
+                        </a>
+                      </li>
+                      
+              
+              
+              
+              
               
                       <li>
                         <a href="/2020/10/22/日记/">
@@ -432,100 +461,6 @@
                         </a>
                       </li>
                       
-              
-              
-              
-              
-              
-                      <li>
-                        <a href="/2020/10/15/2020-10-15-workstation安装及使用免费许可证/">
-                          <span style="color:#0bf;">
-                          15日22:14:03</span>
-                          workstation安装及使用免费许可证
-                        </a>
-                      </li>
-                      
-              
-              
-              
-              
-              
-                      <li>
-                        <a href="/2020/10/11/2020-10-11-markdown/">
-                          <span style="color:#0bf;">
-                          11日11:21:23</span>
-                          MarkDown学习
-                        </a>
-                      </li>
-                      
-                    </ul>
-                  </li>
-                </ul>
-              
-              
-              
-              
-              
-              
-                
-                <ul class="al_mon_list">
-                  <li class="al_li">
-                    <span class="al_mon" style="cursor: s-resize;">
-                      09月(<span id="post-num">
-                      3</span>
-                    篇文章)</span>
-                    <ul class="al_post_list" style="">
-              
-                      <li>
-                        <a href="/2020/09/15/hello-world/">
-                          <span style="color:#0bf;">
-                          15日20:01:41</span>
-                          Hello World
-                        </a>
-                      </li>
-                      
-              
-              
-              
-              
-              
-                      <li>
-                        <a href="/2020/09/14/firstBlog/">
-                          <span style="color:#0bf;">
-                          14日14:10:39</span>
-                          firstBlog
-                        </a>
-                      </li>
-                      
-                    </ul>
-                  </li>
-                </ul>
-              
-              
-              
-              
-              
-                
-                <h3 class="al_year">2018年</h3>
-              
-              
-                
-                <ul class="al_mon_list">
-                  <li class="al_li">
-                    <span class="al_mon" style="cursor: s-resize;">
-                      12月(<span id="post-num">
-                      3</span>
-                    篇文章)</span>
-                    <ul class="al_post_list" style="">
-              
-                      <li>
-                        <a href="/2018/12/12/Hexo-Theme-Sakura/">
-                          <span style="color:#0bf;">
-                          12日22:16:01</span>
-                          Hexo-Theme-Sakura
-                        </a>
-                      </li>
-                      
                     </ul>
                   </li>
                 </ul>
@@ -568,7 +503,7 @@
 })(window);
 </script>
     <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<script src="http://libs.baidu.com/jquery/2.0.0/jquery.js"></script>
+<!-- <script src="http://libs.baidu.com/jquery/2.0.0/jquery.js"></script> -->
 <footer id="colophon" class="site-footer" role="contentinfo">
 	<!-- 不蒜子 网页计数器 -->
 	<div class="site-info">
@@ -599,20 +534,19 @@
 </footer>
 
 <!-- 不蒜子计数初始值纠正 -->
-    <script >
+   <!-- <script >
         $(document).ready(function() {
             var int = setInterval(fixCount, 50);  // 50ms周期检测函数
-            var countOffset = 20000;  // 初始化首次数据
+            var countOffset = 0;  // 初始化首次数据
            function fixCount() {                   
-             if ($("#busuanzi_container_site_pv").css("display") != "none")
-               {
+             if ($("#busuanzi_container_site_pv").css("display") != "none"){
                   $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + countOffset); // 加上初始数据 
                   clearInterval(int); // 停止检测
              }  
          }           
         });
     </script>
-
+-->
 <!-- <script src="/js/tocbot.js"></script> -->
 <script type="text/javascript" src="/js/lib.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
@@ -790,14 +724,37 @@ $(document).ready(function() {
                 </a>
               </li>
             
-              <li>
-                <a href="/mypage/">
-                  <i class="fa fa-photo" aria-hidden="true"></i>
-                  图集
-                </a>
-              </li>
-            
           </ul>
+        
+      </li>
+    
+      <li>
+        <a href="/mypage/">
+          <span class="faa-parent animated-hover">
+            <i class="fa  fa-photo" aria-hidden="true"></i>
+            我画你猜
+          </span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <a href="https://mikutap.binxin.run">
+          <span class="faa-parent animated-hover">
+            <i class="fa  fa-headphones" aria-hidden="true"></i>
+            初音未来
+          </span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <a href="/categories/日记/">
+          <span class="faa-parent animated-hover">
+            <i class="fa  fa-book" aria-hidden="true"></i>
+            日记
+          </span>
+        </a>
         
       </li>
     
@@ -856,26 +813,6 @@ $(document).ready(function() {
               </li>
             
           </ul>
-        
-      </li>
-    
-      <li>
-        <a href="/client/">
-          <span class="faa-parent animated-hover">
-            <i class="fa  fa-android faa-vertical" aria-hidden="true"></i>
-            客户端
-          </span>
-        </a>
-        
-      </li>
-    
-      <li>
-        <a href="/atom.xml">
-          <span class="faa-parent animated-hover">
-            <i class="fa  fa-rss faa-pulse" aria-hidden="true"></i>
-            RSS
-          </span>
-        </a>
         
       </li>
     

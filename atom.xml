@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://binxin.run/"/>
-  <updated>2020-10-22T15:14:13.191Z</updated>
+  <updated>2020-10-28T14:28:17.306Z</updated>
   <id>https://binxin.run/</id>
   
   <author>
@@ -15,6 +15,45 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日记</title>
+    <link href="https://binxin.run/2020/10/28/%E6%97%A5%E8%AE%B0/"/>
+    <id>https://binxin.run/2020/10/28/日记/</id>
+    <published>2020-10-28T14:28:17.000Z</published>
+    <updated>2020-10-28T14:28:17.306Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试一下</title>
+    <link href="https://binxin.run/2020/10/28/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
+    <id>https://binxin.run/2020/10/28/测试一下/</id>
+    <published>2020-10-28T13:10:09.000Z</published>
+    <updated>2020-10-28T13:26:17.399Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;实现日记中也有分类！&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="日记" scheme="https://binxin.run/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>日记</title>
@@ -109,126 +148,6 @@
     
     
       <category term="日记" scheme="https://binxin.run/tags/%E6%97%A5%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>workstation安装及使用免费许可证</title>
-    <link href="https://binxin.run/2020/10/15/2020-10-15-workstation%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8%E5%85%8D%E8%B4%B9%E8%AE%B8%E5%8F%AF%E8%AF%81/"/>
-    <id>https://binxin.run/2020/10/15/2020-10-15-workstation安装及使用免费许可证/</id>
-    <published>2020-10-15T14:14:03.000Z</published>
-    <updated>2020-10-26T14:56:23.848Z</updated>
-    
-    <summary type="html">
-    
-      描述
-    
-    </summary>
-    
-      <category term="技术" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-      <category term="生活" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF/%E7%94%9F%E6%B4%BB/"/>
-    
-      <category term="资源" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF/%E7%94%9F%E6%B4%BB/%E8%B5%84%E6%BA%90/"/>
-    
-      <category term="随想" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF/%E7%94%9F%E6%B4%BB/%E8%B5%84%E6%BA%90/%E9%9A%8F%E6%83%B3/"/>
-    
-      <category term="转载" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF/%E7%94%9F%E6%B4%BB/%E8%B5%84%E6%BA%90/%E9%9A%8F%E6%83%B3/%E8%BD%AC%E8%BD%BD/"/>
-    
-    
-      <category term="web" scheme="https://binxin.run/tags/web/"/>
-    
-      <category term="java" scheme="https://binxin.run/tags/java/"/>
-    
-      <category term="sql" scheme="https://binxin.run/tags/sql/"/>
-    
-      <category term="兴趣" scheme="https://binxin.run/tags/%E5%85%B4%E8%B6%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MarkDown学习</title>
-    <link href="https://binxin.run/2020/10/11/2020-10-11-markdown/"/>
-    <id>https://binxin.run/2020/10/11/2020-10-11-markdown/</id>
-    <published>2020-10-11T03:21:23.000Z</published>
-    <updated>2020-10-11T03:36:48.216Z</updated>
-    
-    <summary type="html">
-    
-      描述
-    
-    </summary>
-    
-      <category term="技术" scheme="https://binxin.run/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="MarkDown" scheme="https://binxin.run/tags/MarkDown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://binxin.run/2020/09/15/hello-world/"/>
-    <id>https://binxin.run/2020/09/15/hello-world/</id>
-    <published>2020-09-15T12:01:41.922Z</published>
-    <updated>2020-09-15T12:01:41.923Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>firstBlog</title>
-    <link href="https://binxin.run/2020/09/14/firstBlog/"/>
-    <id>https://binxin.run/2020/09/14/firstBlog/</id>
-    <published>2020-09-14T06:10:39.000Z</published>
-    <updated>2020-09-14T10:03:30.249Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;一级&quot;&gt;&lt;a href=&quot;#一级&quot; class=&quot;headerlink&quot; title=&quot;一级&quot;&gt;&lt;/a&gt;一级&lt;/h1&gt;&lt;h2 id=&quot;二级&quot;&gt;&lt;a href=&quot;#二级&quot; class=&quot;headerlink&quot; title=&quot;二级&quot;&gt;&lt;/a&gt;二级&lt;/h2&gt;&lt;h3
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo-Theme-Sakura</title>
-    <link href="https://binxin.run/2018/12/12/Hexo-Theme-Sakura/"/>
-    <id>https://binxin.run/2018/12/12/Hexo-Theme-Sakura/</id>
-    <published>2018-12-12T14:16:01.000Z</published>
-    <updated>2020-10-11T04:21:27.363Z</updated>
-    
-    <summary type="html">
-    
-      hexo-sakura主题使用教程
-    
-    </summary>
-    
-      <category term="转载" scheme="https://binxin.run/categories/%E8%BD%AC%E8%BD%BD/"/>
-    
-    
-      <category term="web" scheme="https://binxin.run/tags/web/"/>
-    
-      <category term="悦读" scheme="https://binxin.run/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
