@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://binxin.run/"/>
-  <updated>2020-10-26T14:56:23.848Z</updated>
+  <updated>2020-10-22T15:14:13.191Z</updated>
   <id>https://binxin.run/</id>
   
   <author>
@@ -15,6 +15,102 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日记</title>
+    <link href="https://binxin.run/2020/10/22/%E6%97%A5%E8%AE%B0/"/>
+    <id>https://binxin.run/2020/10/22/日记/</id>
+    <published>2020-10-22T14:03:14.000Z</published>
+    <updated>2020-10-22T15:14:13.191Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;又是失眠&quot;&gt;&lt;a href=&quot;#又是失眠&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="日记" scheme="https://binxin.run/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="日记" scheme="https://binxin.run/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>日记</title>
+    <link href="https://binxin.run/2020/10/20/%E6%97%A5%E8%AE%B0/"/>
+    <id>https://binxin.run/2020/10/20/日记/</id>
+    <published>2020-10-20T15:51:09.000Z</published>
+    <updated>2020-10-20T15:59:03.859Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;搭建Chevereto遇到难题&quot;&gt;&lt;a href=&quot;#搭建Chevereto遇到难题&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日记" scheme="https://binxin.run/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>日记</title>
+    <link href="https://binxin.run/2020/10/19/%E6%97%A5%E8%AE%B0/"/>
+    <id>https://binxin.run/2020/10/19/日记/</id>
+    <published>2020-10-19T14:45:41.000Z</published>
+    <updated>2020-10-19T16:23:05.086Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;哈哈哈我又来日记了&quot;&gt;&lt;a href=&quot;#哈哈哈我又来日记了&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇日记</title>
+    <link href="https://binxin.run/2020/10/18/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%97%A5%E8%AE%B0/"/>
+    <id>https://binxin.run/2020/10/18/第一篇日记/</id>
+    <published>2020-10-18T14:19:17.000Z</published>
+    <updated>2020-10-18T15:14:15.581Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;博客搭好却没写过什么&quot;&gt;&lt;a href=&quot;#博客搭好却没写过什么&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日记" scheme="https://binxin.run/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>workstation安装及使用免费许可证</title>
